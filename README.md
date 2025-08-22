@@ -1,5 +1,5 @@
 🎬 MoviesNation
-A sleek and responsive movie browsing app built with React, allowing users to explore popular, trending, and upcoming movies. It fetches real-time movie data from a public movie API and presents it with a modern UI.
+A sleek and responsive movie browsing app built with React, allowing users to explore popular, trending, and upcoming movies. It fetches real-time movie data from a public movie API and presents it with a great ui
 
 Live demo
 https://privatemovieshub.netlify.app
