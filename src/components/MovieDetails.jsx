@@ -17,7 +17,7 @@ const MovieDetails = () => {
       }
     };
 
-    fetchMovieDetails();
+    // fetchMovieDetails();
   }, [movieId]);
 
   if (!movie) {
